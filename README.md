@@ -1,4 +1,4 @@
-<lh1 align="center">Hi 👋, I'm Shubhankar</h1>
+<h1 align="center">Hi 👋, I'm Shubhankar</h1>
 <h3 align="center">A Software Developer from California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankarsapa&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarsapa" /> </p>
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shubhankar-sapa-51b1121b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhankarsapa" height="30" width="40" /></a>
-<a href="https://instagram.com/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhankar sapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhankar sapa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhankarsapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhankarsapa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sapashubhankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sapashubhankar" height="30" width="40" /></a>
+<a href="https://discord.gg/shubhankarsapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubhankarsapa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
