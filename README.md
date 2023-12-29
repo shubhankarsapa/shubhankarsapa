@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack or Blockchain projects**
 
-- 👨‍💻 All of my projects are available at [github/shubhankarsapa](github/shubhankarsapa)
+- 👨‍💻 All of my projects are available at [github/shubhankarsapa](https://github.com/shubhankarsapa?tab=repositories)
 
 - 💬 Ask me about **JavaScript and Blockchain**
 
