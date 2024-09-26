@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web3 Applications**
 
-- 🌱 I’m currently learning **NextJS and Solidity**
+- 🌱 I’m currently learning **Hyperledger Fabric and Chaincode**
 
 - 👯 I’m looking to collaborate on **Full Stack or Blockchain projects**
 
