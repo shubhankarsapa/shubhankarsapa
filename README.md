@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shubhankar-sapa-51b1121b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhankar sapa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhankarsapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhankarsapa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sapashubhankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sapashubhankar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sapashubhankar" height="30" width="40" /></a>
 <a href="https://discord.gg/shubhankarsapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubhankarsapa" height="30" width="40" /></a>
 </p>
 
