@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankarsapa&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarsapa" /> </p>
 
-- 🔭 I’m currently working on **Web3 Applications**
+- 🔭 I’m currently working on **Decentrlized Storage Solutions**
 
-- 🌱 I’m currently learning **Hyperledger Fabric and Chaincode**
+- 🌱 I’m currently learning **Go and DevOps**
 
-- 👯 I’m looking to collaborate on **Full Stack or Blockchain projects**
+- 👯 I’m looking to collaborate on **Full Stack or Blockchain Projects**
 
 - 👨‍💻 All of my projects are available at [github/shubhankarsapa](https://github.com/shubhankarsapa?tab=repositories)
 
-- 💬 Ask me about **JavaScript and Blockchain**
+- 💬 Ask me about **Backend, Cloud or Blockchain**
 
 - 📫 How to reach me **sapashubhankar1@gmail.com**
 
